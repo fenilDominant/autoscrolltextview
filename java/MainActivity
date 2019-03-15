@@ -1,0 +1,3 @@
+home_temple_title = findViewById(R.id.home_temple_title);
+home_temple_title.setText("Jai ho maya kiJai ho maya kiJai ho maya kiJai ho maya kiJai ho maya kiJai ho maya kiJai ho maya kiJai ho maya kiJai ho maya ki  ****  ***");
+   
